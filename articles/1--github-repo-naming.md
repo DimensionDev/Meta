@@ -1,14 +1,14 @@
 # Article 1: GitHub Repo Naming Convention
 
-| Key | Value |
-| :--- | :--- |
-| Type | Convention |
-| Date | 2019-04-17 |
-| Status | Ratified |
-| Authors | Neruthes, Yisi Liu |
-| Amendments | N/A |
+Key | Value
+--- | ---
+Type | Convention
+Date | 2019-04-17
+Status | Ratified
+Authors | Neruthes, Yisi Liu
+Amendments | N/A
 
-## Preamble
+## Abstract
 
 In order to well organize our projects, it may be helpful to establish a naming convention at this point of time.
 
