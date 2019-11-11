@@ -4,7 +4,7 @@
 | :--- | :--- |
 | Type | Convention |
 | Date | 2019-04-17 |
-| Status | Draft |
+| Status | Ratified |
 | Authors | Neruthes, Yisi Liu |
 | Amendments | N/A |
 
@@ -33,9 +33,9 @@ In order to well organize our projects, it may be helpful to establish a naming 
 
 ## Examples
 
-- `Dimension-website`
+- `Dimension-Website`
 - `Tessercube-iOS`
-- `Maskbook-website`
+- `Maskbook-Website`
 - `Maskbook_Applet-Holoflows`
 - `Maskbook_Extension-Chromium`
 - `Metadrive-Driver-GitHub`
