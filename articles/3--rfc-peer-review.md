@@ -4,7 +4,7 @@ Key | Value
 --- | ---
 Type | Convention
 Date | 2019-11-11
-Status | Open
+Status | Abolished
 Authors | Neruthes
 Amendments | N/A
 
